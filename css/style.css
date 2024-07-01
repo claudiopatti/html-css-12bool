@@ -35,7 +35,7 @@ main
 }
 
 h2 {
-    margin: 20px 0;
+    margin: 20px 0 5px;
 }
 
 .box-left-big {
@@ -54,4 +54,18 @@ h2 {
 
 .my-col-flex {
     display: flex;
+}
+
+h3 {
+    margin-bottom: 20px ;
+}
+
+.my-row-space-around {
+    display: flex;
+    justify-content: space-around;
+}
+
+.my-row-space-between {
+    display: flex;
+    justify-content: space-between;
 }
