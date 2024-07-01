@@ -37,3 +37,21 @@ main
 h2 {
     margin: 20px 0;
 }
+
+.box-left-big {
+    min-height: 100px;
+}
+
+.box-left-center {
+    align-self: center;
+    width: 100%;
+}
+
+.box-left-bottom {
+    width: 100%;
+    align-self: flex-end;
+}
+
+.my-col-flex {
+    display: flex;
+}
