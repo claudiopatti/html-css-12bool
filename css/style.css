@@ -33,3 +33,7 @@ main
 .my-margin-top {
     margin-top: 40px;
 }
+
+h2 {
+    margin: 20px 0;
+}
